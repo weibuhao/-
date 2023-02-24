@@ -1,27 +1,20 @@
-# hmtt
-
-## Project setup
+# 程序猿头条
+## 下载依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### [项目线上地址](http://wangyiyunmus.web3v.work)
 
 ## 项目图示
 <div>
